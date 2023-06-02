@@ -1,0 +1,1 @@
+We will talk about Html Advanced, how to use html to build a website, how to build a block, section in that session we will learn more on Html, after this At the end of this project, you are expected to be able to explain to anyone, without the help of Google.
